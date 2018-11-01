@@ -159,7 +159,9 @@
       "slideshow",
       "home-product",
       "featured-blog"
-    ]
+    ],
+    "pluginseo_pageTitleCatalogTemplate": "Abc",
+    "pluginseo_metaDescriptionCatalogTemplate": "Def"
   },
   "presets": {
     "Jumpstart": {
